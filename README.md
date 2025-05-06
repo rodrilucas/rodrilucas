@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Lucas.</h1>
 
 <p align="center">
-  Desenvolvedor Web Full-Stack com foco em **JavaScript/TypeScript**, **React** e **Node.js**, sempre em busca de soluções modernas, escaláveis e eficientes.
+  Desenvolvedor Web Full-Stack com foco em JavaScript/TypeScript, React e Node.js, sempre em busca de soluções modernas, escaláveis e eficientes.
 </p>
 
 <p align="center">
